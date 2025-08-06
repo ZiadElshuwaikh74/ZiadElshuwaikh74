@@ -31,14 +31,6 @@
 
 ### 🛠️ Languages & Tools I Use
 
-#### 👨‍💻 Concepts & Programming Skills:
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Problem Solving
-- SOLID Principles
-- Design Patterns
-
----
 
 <div align="center">
   
@@ -78,9 +70,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiadElshuwaikh74&show_icons=true&theme=radical" />
-</div>
+<div align="center"> <a href="https://github.com/ZiadElshuwaikh74"> <img src="https://github-readme-stats.vercel.app/api?username=ZiadElshuwaikh74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ziad's GitHub Stats" /> </a> <br/> <a href="https://github.com/ZiadElshuwaikh74"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadElshuwaikh74&theme=tokyonight&hide_border=true" alt="Ziad's GitHub Streak" /> </a> <br/> <a href="https://github.com/ZiadElshuwaikh74"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElshuwaikh74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </a> </div>
 
 
 
