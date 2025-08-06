@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a Computer Science graduate from Menoufia University  
+- 🎓 I'm a Computer Science graduate   
 - 💻 I'm a Full-Stack .NET Developer focused on building efficient, modern, and scalable applications.  
 - 🔭 Currently working with ASP.NET Core, Angular, SQL Server, and Entity Framework Core  
 - 🧠 Passionate about clean code, design patterns, and software architecture  
@@ -15,10 +15,19 @@
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ziad-elshuwaikh-692138209" target="blank">LinkedIn</a> • 
-<a href="ziadelshuwaikh@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/ziad-elshuwaikh-692138209" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ziadelshuwaikh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/ziad_elshuwaikh72/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
+
 
 ---
 
