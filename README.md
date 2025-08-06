@@ -1,20 +1,48 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ziad Elshuwaikh</h1>
+<h3 align="center">Full-Stack .NET Developer | Passionate about building modern web applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadelshuwaikh74&label=Profile%20views&color=0e75b6&style=flat" alt="ziadelshuwaikh74" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadelshuwaikh74" alt="ziadelshuwaikh74" /></a> </p>
+### 👨‍💻 About Me
 
-- 📫 How to reach me **ziadelshuwaikh@gmail.com**
+- 🎓 I'm a Computer Science graduate from Menoufia University  
+- 💻 I'm a Full-Stack .NET Developer focused on building efficient, modern, and scalable applications.  
+- 🔭 Currently working with ASP.NET Core, Angular, SQL Server, and Entity Framework Core  
+- 🧠 Passionate about clean code, design patterns, and software architecture  
+- 📚 Always learning and exploring new technologies  
+- 🚀 Eager to grow in a professional team and contribute to impactful projects  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/ziad-elshuwaikh-692138209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad elshuwaikh‏" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ziad_elshuwaikh72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziad_elshuwaikh72" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ziad-elshuwaikh-692138209" target="blank">LinkedIn</a> • 
+<a href="ziadelshuwaikh@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadelshuwaikh74&show_icons=true&locale=en&layout=compact" alt="ziadelshuwaikh74" /></p>
+### 🛠️ Languages & Tools I Use
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadelshuwaikh74&show_icons=true&locale=en" alt="ziadelshuwaikh74" /></p>
+---
+
+### 📊 GitHub Stats
+
+![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiadElshuwaikh74&show_icons=true&theme=radical)
+
+---
+
+### 📌 Pinned Projects
+> تأكد إنك تثبّت أهم مشاريعك من “Customize your pins”
+
+---
+
