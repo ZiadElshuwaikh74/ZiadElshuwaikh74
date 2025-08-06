@@ -70,20 +70,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiadElshuwaikh74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ziad's GitHub Stats" width="48%" />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZiadElshuwaikh74&theme=tokyonight&hide_border=true" alt="Ziad's GitHub Streak" width="48%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElshuwaikh74&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-  
-</div>
 
 
 
